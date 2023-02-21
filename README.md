@@ -1,6 +1,6 @@
 # PeerNet - A RickNotRoll Project
 
-This was a group project that my frineds and I built for a hackathon organized at our college. This repository is a modified copy of the submission that was made.
+This was a group project that my friends and I built for a hackathon organized at our college. This repository is a modified copy of the submission that was made.
 
 ## PROBLEM STATEMENT:
 >Students at Ramaiah Institute of Technology lack a platform for connecting with peers who share similar interests and forming communities. Another problem faced by students is unfamiliarity with affordable dining options. A solution is needed to provide students with an easy and accessible way to find and join communities of like-minded individuals and to navigate good food options.
