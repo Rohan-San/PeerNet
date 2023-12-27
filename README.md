@@ -13,6 +13,8 @@ Teammates: [@Kxitij](https://github.com/Kxitij), [@SuryaCodez](https://github.co
 ### Website URL:
 >[PeerNet](https://rohan-san.github.io/PeerNet/)
 
+![peernet](https://github.com/Rohan-San/PeerNet/assets/107957865/d5d36dd9-ce62-40c2-93a4-a606fd687a3d)
+
 ### Future Scope:
 >1. We can add more communities.
 >2. We also plan on adding an accomodations category so that students can have a seamless experience in looking for places to stay with roommates of their choice where people can list out their flats or PGs.
